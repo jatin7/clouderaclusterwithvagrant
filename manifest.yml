@@ -1,0 +1,7 @@
+---
+  instances: 7
+  name_prefix: cdh00
+  memory: 8192
+  cpus: 2
+  privateip_prefix: 192.168.100.15
+  bootstrap: /home/cloudera/cloudera/bootstrap.sh
